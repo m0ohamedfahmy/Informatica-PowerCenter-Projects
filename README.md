@@ -7,9 +7,9 @@
 | Component         | Screenshot |
 |------------------|------------|
 | Mapping Overview | ![Mapping](images/mapping.png) |
-| Workflow         | ![Workflow](images/workflow%20monitor.png) |
 | Outlier Mapplet  | ![Outlier Mapplet](images/Mapplet%20to%20detected%20outliers.png) |
 | Mode Mapplet     | ![Mode Mapplet](images/Mapplet%20to%20calculate%20mode.png) |
+| Workflow         | ![Workflow](images/workflow%20monitor.png) |
 
 ---
 
