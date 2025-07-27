@@ -1,5 +1,17 @@
 
 # 🚗 ETL Project using Informatica PowerCenter
+---
+
+## 🖼️ Screenshots
+
+| Component         | Screenshot |
+|------------------|------------|
+| Mapping Overview | ![Mapping](images/mapping.png) |
+| Workflow         | ![Workflow](images/workflow%20monitor.png) |
+| Outlier Mapplet  | ![Outlier Mapplet](images/Mapplet%20to%20detected%20outliers.png) |
+| Mode Mapplet     | ![Mode Mapplet](images/Mapplet%20to%20calculate%20mode.png) |
+
+---
 
 ## 📌 Project Description
 
@@ -75,19 +87,6 @@ This is an end-to-end ETL project developed using **Informatica PowerCenter**. T
 - **Mapplet**
   - For outlier calculation
   - For mode calculation
-
----
-
-## 🖼️ Screenshots
-
-| Component         | Screenshot |
-|------------------|------------|
-| Mapping Overview | ![Mapping](images/mapping.png) |
-| Workflow         | ![Workflow](images/workflow.png) |
-| Outlier Mapplet  | ![Outlier Mapplet](images/outlier_mapplet.png) |
-| Mode Mapplet     | ![Mode Mapplet](images/mode_mapplet.png) |
-
-> **Note**: Make sure to replace the paths above with the actual GitHub path after uploading your images in the `images/` folder.
 
 ---
 
