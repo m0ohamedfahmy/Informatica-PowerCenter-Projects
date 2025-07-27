@@ -19,6 +19,35 @@ This is an end-to-end ETL project developed using **Informatica PowerCenter**. T
 
 ---
 
+## 📊 Dataset Overview
+
+The dataset used in this project contains information about car listings scraped from an online marketplace. Below is a summary of the columns available in the dataset:
+
+| Column Name           | Description |
+|------------------------|-------------|
+| `index`               | Unique identifier for each row (usually auto-generated). |
+| `dateCrawled`         | Date when the data was scraped from the website. |
+| `name`                | Title or name of the car listing. |
+| `seller`              | Type of seller (e.g., private or dealer). |
+| `offerType`           | Type of offer (e.g., offer, request). |
+| `price`               | Listed price of the car in Euros. |
+| `abtest`              | A/B test flag used for internal site testing. |
+| `vehicleType`         | Type of the vehicle (e.g., sedan, SUV, coupe). |
+| `yearOfRegistration`  | Year the car was first registered. |
+| `gearbox`             | Type of transmission (e.g., manual, automatic). |
+| `powerPS`             | Power of the car in Pferdestärke (horsepower). |
+| `model`               | Car model name. |
+| `kilometer`           | Distance driven by the car in kilometers. |
+| `monthOfRegistration` | Month the car was first registered. |
+| `fuelType`            | Type of fuel used (e.g., petrol, diesel). |
+| `brand`               | Car brand (e.g., BMW, Audi, Ford). |
+| `notRepairedDamage`   | Indicates if the car has unrepaired damage. |
+| `dateCreated`         | Date when the ad was created on the platform. |
+| `postalCode`          | Postal code of the location where the car is listed. |
+
+
+---
+
 
 ## 🔁 ETL Flow
 
